@@ -3,5 +3,6 @@ The player to the left goes first and must decide whether to "stand" (not ask fo
 
 
 
-try using this application in your browser
-black-jack-application.netlify.app
+try using this application in your browser 
+click on this link
+https://black-jack-application.netlify.app/
