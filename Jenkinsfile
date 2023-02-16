@@ -13,7 +13,7 @@ pipeline {
       }
     }
 
-    stage('build') {
+    stage('Build') {
       steps {
         sh 'docker build -f blackjack/Dockerfile .'
       }
