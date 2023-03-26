@@ -5,6 +5,7 @@ body{
     background-image: url("./images2.png");
 
     background-size: 100%;
+     background-repeat: no-repeat;
     font-weight:bold;
     
     color: rgb(159, 241, 169);
